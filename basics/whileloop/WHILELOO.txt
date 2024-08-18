@@ -1,0 +1,6 @@
+10 WHILE a<10
+20 a=a+1
+30 b=b+a
+40 WEND
+50 PRINT b
+60 END
