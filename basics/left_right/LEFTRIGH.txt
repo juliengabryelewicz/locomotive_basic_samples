@@ -1,0 +1,3 @@
+10 a$ = "Julien Gabryelewicz"
+20 PRINT LEFT$(a$,6)
+30 PRINT RIGHT$(a$,12)
